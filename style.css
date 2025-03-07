@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.centering {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: #2b6777;
+}
+
+.firstParagraph {
+    font-size: 25px;
+}
+
+.indexList {
+    font-size: 20px;
+    color: #52ab98;
+    list-style: square;
+    
+}
+
+li strong {
+    font-size: 20px;
+    color: #52ab98;
+    list-style: square;
+}
+
+li ul {
+    font-size: 18px;
+    list-style: square;
+    
+}
+
+.description-what {
+    font-size: 18px;
+}
+
+h3 {
+    color: #2b6777;
+}
+
+#boldEspecial {
+    color: #2b6777;
+    font-size: 25px;
+}
